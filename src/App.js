@@ -8,7 +8,10 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+        John 3:16: For God so loved the world, 
+                    that He gave His only begotten Son, 
+                    that whoever believes in Him shall not perish, 
+                    but have eternal life.
         </p>
         <a
           className="App-link"
